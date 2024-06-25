@@ -136,7 +136,7 @@ const app = Vue.createApp({
 
 Agora, se ``inStock`` possui valor ``false``, iremos ver a mensagem "**Fora de Estoque**" renderizado na página.
 
-###Vamos testar as duas condições
+#### Vamos testar as duas condições
 
 3.3 Agora abra o arquivo "**index.html**" no browser. Você verá a página abaixo.
 
