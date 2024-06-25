@@ -185,15 +185,15 @@ Observe a figura abaixo. Ela ilustra o que acabamos de fazer no Passo 4.1 acima.
 ![v-if result true](img_readme/v-for_setting_key_attribute.png)
 
 
-### **Passo 6. Coding Challenge**
+### **Passo 5. Coding Challenge**
 
-6.1 Adicione uma _array_ de tamanhos (``sizes``) (**S**, **M**, **L**, **XL**) ao objeto de dados.
-
-
-6.2 Use ``v-for`` para mostrar os ``sizes`` em uma lista.
+5.1 Adicione uma _array_ de tamanhos (``sizes``) (**S**, **M**, **L**, **XL**) ao objeto de dados.
 
 
-6.3 Abra o arquivo "**index.html**" no browser. Você verá algo assim.
+5.2 Use ``v-for`` para mostrar os ``sizes`` em uma lista.
+
+
+5.3 Abra o arquivo "**index.html**" no browser. Você verá algo assim.
 
 ![Code Challenge t5](img_readme/code_challenge_t5.png)
 
