@@ -277,12 +277,12 @@ Ou assim:
 ![v-on_directive_blue_socks](img_readme/v-on_directive_blue_socks.png)
 
 
-### **Passo 6. Coding Challenge**
+### **Passo 5. Coding Challenge**
 
-6.1 Crie um novo botão que decrementa o valor de ``cart``.
+5.1 Crie um novo botão que decrementa o valor de ``cart``.
 
 
-6.2 Abra o arquivo "**index.html**" no browser. Você verá algo assim.
+5.2 Abra o arquivo "**index.html**" no browser. Você verá algo assim.
 
 ![Code Challenge t6](img_readme/code_challenge_t6.png)
 
